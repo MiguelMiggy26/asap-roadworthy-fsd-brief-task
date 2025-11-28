@@ -11,8 +11,6 @@
 4. You should see your backend is running at PORT:5000
 - http://localhost:5000/
 
-
-
 5. On new terminal, navigate the frontend directory.
 - cd frontend
 
