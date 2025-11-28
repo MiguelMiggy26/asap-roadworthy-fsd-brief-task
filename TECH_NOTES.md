@@ -31,3 +31,4 @@ The frontend is implemented using Next.js, while the backend uses Express.js. Th
     - Assists me on maintaining a neat code, seperate render functions to the controller functions.
     - Give some recommendation how can I use OOP properly, query and maximize the purpose of the hooks.
 
+So far, I have really enjoyed integrating the ServiceM8 API. It provided me with in-depth knowledge of how real-time services operate and are delivered to customers. I also gained valuable experience with Next.js, which gave me a comprehensive view of how easily a frontend framework can manage routing, server-side rendering, and dynamic data fetching. I look forward to exploring more advanced features and maximizing Next.js’s capabilities in future projects.
