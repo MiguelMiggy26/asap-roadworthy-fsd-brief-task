@@ -14,7 +14,6 @@ export default function LoginForm() {
       sessionStorage.setItem('user', JSON.stringify(user));
       sessionStorage.setItem('token', token);
       router.push('/dashboard');
-      console.log("token stored:", sessionStorage.getItem('token'));
     } catch (err) {
       alert(err.message);
     }
